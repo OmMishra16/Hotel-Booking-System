@@ -10,7 +10,7 @@ public class Room {
     private RoomType type;
     private RoomStatus status;
     private double price;
-    private int hotelId; // Added hotelId attribute
+    private int hotelId;
 
     public Room() {
     }
